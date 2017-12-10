@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase_test</string>
+    <string name="logIn">Log In</string>
+    <string name="register">Register</string>
+    <string name="addToDb">Add to database</string>
+    <string name="getFromDb">Get Data</string>
+</resources>
